@@ -15,5 +15,8 @@ Built with **Vite + React**, it displays book covers, titles, authors, and links
 ---
 
 ## 🧠 How It Works  
-1. Type a book name or keyword in the search bar.  
+1. Type a book name or keyword in the search bar. (eg:python) 
 2. The app fetches results from the Google Books API:  
+
+## Live Demo
+[View the project on CodeSandbox] https://codesandbox.io/p/sandbox/pensive-dream-2c9p8p
